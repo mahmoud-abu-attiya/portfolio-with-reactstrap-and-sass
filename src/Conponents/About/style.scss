@@ -11,7 +11,10 @@
     text-shadow: 0 0 1px #000, 0 0 20px #fff;
     .container{
         .about-content{
-            width: 50%;
+            width: 70%;
+            @media(max-width:600px) {
+                width: 100%;
+            }
         }
     }
 }

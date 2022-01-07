@@ -14,6 +14,9 @@
         transform: translate(-50%,-50%);
         width: fit-content;
         text-align: center;
+        h1{
+            font-size: clamp(20px, 4vw, 35px);
+        }
         .typed-text,h1{
             color:#fff;
             display: block;
