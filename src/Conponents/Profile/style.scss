@@ -1,0 +1,21 @@
+#root > div > div:nth-child(4){
+    margin: 50px auto;
+    .Profile{
+        .info .items{
+            text-transform: capitalize;
+        }
+        .info .items,.info-answer .items{
+                margin: 10px 0;
+            }
+        
+        .info-answer{
+            margin-left: 5%;
+            @media (max-width:600px){
+                margin-left: 10%;
+            }
+            a{
+                color:var(--bs-body-color)
+            }
+        }
+    }
+}

@@ -4,7 +4,6 @@ import Work from '../Work';
 import Portfolio from '../Portfolio';
 import Profile from '../Profile';
 import About from '../About';
-import SocailMedia from '../SocailMedia';
 import Footer from '../Footer';
 
 
@@ -17,7 +16,6 @@ class Index extends Component{
         <Portfolio />
         <Profile />
         <About />
-        <SocailMedia />
         <Footer />
       </div>
     )

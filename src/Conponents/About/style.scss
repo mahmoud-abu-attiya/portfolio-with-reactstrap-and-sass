@@ -1,0 +1,17 @@
+.about{
+    width: 100%;
+    background-image: url('../../../public/images/portfolio9.jpg');
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    height:400px;
+    display: flex;
+    align-items: center;
+    color:#000000;
+    text-shadow: 0 0 1px #000, 0 0 20px #fff;
+    .container{
+        .about-content{
+            width: 50%;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+.header-wraper{
+    position: relative;
+    background: url("../../../public/images/portfolio1.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:92vh;
+    #tsparticles{
+        height: 100%;
+    }
+    .main-info{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: fit-content;
+        text-align: center;
+        .typed-text,h1{
+            color:#fff;
+            display: block;
+        }
+        .typed-text{
+            display: block;
+            margin:20px 0px;
+        }
+        
+    }
+}

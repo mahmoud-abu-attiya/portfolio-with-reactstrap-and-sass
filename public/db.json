@@ -2,21 +2,36 @@
     "works" : [
         {
             "id" : 1,
-            "icon_name": "icon fa fa-chain fa-2x",
-            "title": "Mobile Ux",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+            "title": "Stalker Rat",
+            "date": "(Apr 2021 – May 2021)",
+            "paragraf": "This is an incognito messages website inspired by sarahah which have the same functionality with some improvements and edits.characterized by responsive design & modern.",
+            "link":"https://stalker-rat.herokuapp.com/",
+            "image" :"/images/stalker-rat.png"
+            
         },
         {
             "id" : 2,
-            "icon_name": "icon fa fa-bolt fa-2x",
-            "title": "Mobile Ux",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+            "title": "Latifa al-kuariy",
+            "date": "(Dec 2021 – Jan 2022)",
+            "paragraf": "A site to display modern robots with responsive design.",
+            "link":"https://www.latifa-alkuwari.com/",
+            "image" :"/images/latifa.png"
         },
         {
             "id" : 3,
-            "icon_name": "icon fa fa-tachometer fa-2x",
-            "title": "Mobile Ux",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+            "title": "Lunar",
+            "date": "(Jun 2021 – Jun 2021)",
+            "paragraf": "A site to display modern robots with responsive design.",
+            "link":"https://mahmoud-abu-attiya.github.io/mimocodes/",
+            "image" :"/images/lunar.png"
+        },
+        {
+            "id" : 4,
+            "title": "Calculator App",
+            "date": "(May 2021 – May 2021)",
+            "paragraf": "Simple calculator app with 3 themes and responsive design.",
+            "link":"https://mahmoud-abu-attiya.github.io/calculator-app-main/",
+            "image" :"/images/calculator.png"
         }
     ],
 
@@ -27,7 +42,7 @@
         },
         {
             "id":2,
-            "image": "/images/portfolio2.jpg"
+            "image": "/images/portfolio7.jpg"
         },
         {
             "id":3,
@@ -47,7 +62,7 @@
         },
         {
             "id":7,
-            "image": "/images/portfolio4.jpg"
+            "image": "/images/portfolio2.jpg"
         },
         {
             "id":8,
